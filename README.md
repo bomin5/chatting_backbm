@@ -2,21 +2,21 @@
 
 # Django project setting
 
-- python 설치
+ python 설치
 
--(mac 기준) poetry 설치
+ (mac 기준) poetry 설치
 > brew install poetry
 > poetry --version
 
-- poetry를 사용하여 가상환경 설정
+ poetry를 사용하여 가상환경 설정
 > mkdir 폴더이름
 > cd 폴더이름
 > poetry init
-  #pyproject.toml 생성
+  => pyproject.toml 생성
 
-- 가상환경에 Django 설치
+ 가상환경에 Django 설치
 > poetry add Django
-  #poetry.lock 생성
+  => poetry.lock 생성
 
 - 가상환경에서 Django 실행
 > poetry shell # 가상환경으로 접속
