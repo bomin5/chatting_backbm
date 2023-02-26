@@ -35,4 +35,4 @@
 
 - python manage.py createsuperuser
 
-- python manage.py startapp 폴더이름 (폴더 생성)
+- python manage.py startapp 폴더이름 => 폴더 
